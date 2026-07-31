@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "weight": 85.0,
+        "height_cm": 178.0,
+        "bmi": 26.83,
+        "category": "Overweight"
+    },
+    {
+        "id": 2,
+        "weight": 80.0,
+        "height_cm": 177.0,
+        "bmi": 25.54,
+        "category": "Overweight"
+    },
+    {
+        "id": 3,
+        "weight": 105.0,
+        "height_cm": 180.0,
+        "bmi": 32.41,
+        "category": "Obesity"
+    },
+    {
+        "id": 4,
+        "weight": 98.0,
+        "height_cm": 175.0,
+        "bmi": 32.0,
+        "category": "Obesity"
+    },
+    {
+        "id": 5,
+        "weight": 50.0,
+        "height_cm": 176.0,
+        "bmi": 16.14,
+        "category": "Underweight"
+    },
+    {
+        "id": 6,
+        "weight": 65.0,
+        "height_cm": 174.0,
+        "bmi": 21.47,
+        "category": "Normal"
+    },
+    {
+        "id": 7,
+        "weight": 71.0,
+        "height_cm": 168.0,
+        "bmi": 25.16,
+        "category": "Overweight"
+    },
+    {
+        "id": 8,
+        "weight": 69.0,
+        "height_cm": 173.0,
+        "bmi": 23.05,
+        "category": "Normal"
+    }
+]
